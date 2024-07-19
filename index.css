@@ -1,0 +1,216 @@
+
+
+
+.bodycolor {
+    position:absolute;
+    top: 0; right: 0; 
+    left:0;bottom:0px;
+    height: auto;
+      
+    background-color:#13072E;
+       
+      } 
+      
+      #nav {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0 ;
+        overflow: hidden;
+        position:absolute;
+        left:400px;
+      top:23px;
+      }
+      
+      .links {
+        float: left;
+        transition: font-size 0.3s;
+      }
+      
+      .links a {
+        display: block;
+        color: black;
+        text-align: center;
+        font-size:20px;
+        padding: 14px 20px;
+        text-decoration: none;
+        transition: font-size 0.3s;
+
+      }
+      
+      .links a:hover {
+      font-size:22px;
+      text-decoration: underline; 
+      transition: font-size 0.3s;
+      }
+      .tex{
+      
+      font-size:30px;
+      position:absolute;
+      left:160px;
+      top:18px;
+      }
+        .pin{
+    
+      background-color:white;
+      border-radius:50px;
+    
+      height:90px;
+       margin:auto;
+        width: 90%;
+    
+    
+      }
+    
+      
+       #signin-google {
+               font-size: 16px;
+               font-weight: bold;
+               background-color: white;
+               color: black;
+               padding: 10px 15px;
+               margin: 8px 0;
+               border:1px solid #ff5e00;;
+               cursor: pointer;
+               width: 10%;
+               opacity: 0.9;
+                 position:absolute;
+                right:320px;
+                 top:37px;
+                 border-radius:50px;
+            
+      
+    }
+            #signin-google:hover {
+    background-color:#e7e7e7;
+    
+               
+            }
+      #signup {
+               font-size: 16px;
+               font-weight: bold;
+               background-color: #ff5e00;
+               color: white;
+               padding: 10px 15px;
+               margin: 8px 0;
+               border: none;
+               cursor: pointer;
+               width: 10%;
+               opacity: 0.9;
+                position:absolute;
+                right:150px;
+                 top:37px;
+                border-radius:50px;
+            }
+            #signup:hover {
+    background-color: #dd0000;
+               
+            }
+    
+     #l1 {
+              font-size: 16px;
+              font-weight: bold;
+              background-color: #ff5e00;
+              color: white;
+              padding: 10px 15px;
+              margin: 8px 0;
+              border: none;
+              cursor: pointer;
+              width: 10%;
+              opacity: 0.9;
+               position:absolute;
+               right:150px;
+                top:47px;
+               border-radius:50px;
+           }
+           #l1:hover {
+    background-color: #dd0000;
+              
+           }
+    
+           
+     #discover{
+    font-family:Arial Black;
+        color: white;
+    font-size: 70px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 110px; 
+     } 
+    
+     #ogss{
+    font-family:Arial;
+        color: white;
+        font-size: 20px;
+    position:absolute;
+        text-align: center;
+      top:69%;
+    right:40%;
+    
+     }
+    
+    #getstarted{
+    font-size: 18px;
+               font-weight: bold;
+               background-color: #ff5e00;
+               color: white;
+               padding: 10px 15px;
+               margin: 9px 0;
+               border: none;
+               cursor: pointer;
+               width: 15%;
+               height:10%;
+               opacity: 0.9;
+                position:absolute;
+                right:43%;
+                top:80%;
+                border-radius:50px;
+            }
+            #getstarted:hover {
+    background-color: #dd0000;
+               
+            }
+    
+    .detail{
+    font-size:20px;
+    font-weight:bold;
+    position:absolute;
+    top:800px;
+    left:60px;
+    font-family:Arial ;
+    }
+    
+      #ifs{
+      font-size:30px;
+      color:black;
+      position:absolute;
+      top:840px;
+    left:60px;
+    font-family:Arial Black;
+      }
+     
+     .c {
+       
+      font-size:20px;
+      color:black;
+      position:absolute;
+      top:920px;
+      left:60px;
+    font-family:Arial ;
+      }
+      
+    .img1{
+     width: 400px;
+      height: 400px;
+      object-fit: cover;
+      position:absolute;
+    top:760px;
+    right:30px;
+      border-radius:50%;
+    
+    }
+    
+    
+    
+    
+    
